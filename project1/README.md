@@ -9,6 +9,7 @@ Dataset not included due to size.
 Place images in:
 data/images/
 data/masks/
+Link: https://www.kaggle.com/datasets/nikhilroxtomar/brain-tumor-segmentation?resource=download
 
 ## Methods
 - Global Otsu Thresholding
